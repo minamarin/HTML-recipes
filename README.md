@@ -6,3 +6,4 @@ Basic recipe website
 - Links 
 - Paragraphs 
 
+https://minamarin.github.io/odin-recipes/
