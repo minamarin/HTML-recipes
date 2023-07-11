@@ -1,4 +1,4 @@
-# odin-recipes
+# Recipes
 
 Basic recipe website
 - Lists 
