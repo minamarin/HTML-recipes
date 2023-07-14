@@ -1,4 +1,4 @@
-# odin-recipes
+# Recipes
 
 Basic recipe website
 - Lists 
@@ -6,3 +6,4 @@ Basic recipe website
 - Links 
 - Paragraphs 
 
+https://minamarin.github.io/odin-recipes/
